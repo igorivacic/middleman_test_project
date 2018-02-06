@@ -4,6 +4,7 @@
     <list default="true" id="f5260750-2b89-4913-9a99-3af9fd155eb4" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/mylibs/.gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.erb" afterPath="$PROJECT_DIR$/source/index.html.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="layout.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/layouts/layout.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
@@ -66,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+            <state relative-caret-position="345">
+              <caret line="15" column="68" lean-forward="false" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -116,8 +117,8 @@
       <list>
         <option value="$PROJECT_DIR$/source/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/source/layouts/layout.html.erb" />
-        <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/source/index.html.erb" />
       </list>
     </option>
   </component>
@@ -218,12 +219,12 @@
       <workItem from="1517921117565" duration="2105000" />
       <workItem from="1517923285133" duration="130000" />
       <workItem from="1517923430529" duration="181000" />
-      <workItem from="1517923626848" duration="1141000" />
+      <workItem from="1517923626848" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3557000" />
+    <option name="totallyTimeSpent" value="3912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1920" height="1012" extended-state="6" />
@@ -480,14 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/javascripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -550,6 +543,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="68" lean-forward="false" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
           <folding />
         </state>
       </provider>
